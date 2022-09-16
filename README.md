@@ -1,16 +1,26 @@
-# flutter_iot_ben
+# Flutter IoT App by Ben
+UI Inspired by dribble designs
 
-A new Flutter project.
+## Features of the app
+- Add devices
+- Toggle devices on and off
+- Set temperature
+- Animations
+- Toggle on and off
+- Pagination
+- Widget testing
 
-## Getting Started
+## Screenshots
+|Home|Control Page|
+|:-:|:-:|
+|<img src="/assets/screenshots/home.png" width="250"/>|<img src="/assets/screenshots/panel.png" width="250"/>|
 
-This project is a starting point for a Flutter application.
+## Steps to build the app
+- Clone repo (build files are included)
+- Run flutter pub get
+- Click on Run
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
