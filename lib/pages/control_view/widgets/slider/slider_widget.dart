@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_iot_ben/pages/control_panel/widgets/slider/custom_arc.dart';
+import 'package:flutter_iot_ben/pages/control_view/widgets/slider/custom_arc.dart';
 import 'package:flutter_iot_ben/utils/slider_utils.dart';
 import 'package:sleek_circular_slider/sleek_circular_slider.dart';
 

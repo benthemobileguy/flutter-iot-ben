@@ -1,11 +1,11 @@
 import 'package:animated_background/animated_background.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_iot_ben/pages/control_panel/widgets/option_widget.dart';
-import 'package:flutter_iot_ben/pages/control_panel/options_enum.dart';
-import 'package:flutter_iot_ben/pages/control_panel/widgets/power_widget.dart';
-import 'package:flutter_iot_ben/pages/control_panel/widgets/slider/slider_widget.dart';
-import 'package:flutter_iot_ben/pages/control_panel/widgets/speed_widget.dart';
-import 'package:flutter_iot_ben/pages/control_panel/widgets/temp_widget.dart';
+import 'package:flutter_iot_ben/pages/control_view/widgets/option_widget.dart';
+import 'package:flutter_iot_ben/pages/control_view/options_enum.dart';
+import 'package:flutter_iot_ben/pages/control_view/widgets/power_widget.dart';
+import 'package:flutter_iot_ben/pages/control_view/widgets/slider/slider_widget.dart';
+import 'package:flutter_iot_ben/pages/control_view/widgets/speed_widget.dart';
+import 'package:flutter_iot_ben/pages/control_view/widgets/temp_widget.dart';
 import 'package:flutter_iot_ben/utils/slider_utils.dart';
 import 'package:flutter_iot_ben/widgets/custom_appbar.dart';
 import 'package:rainbow_color/rainbow_color.dart';

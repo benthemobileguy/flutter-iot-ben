@@ -1,8 +1,8 @@
 import 'package:animations/animations.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter_iot_ben/pages/control_view/control_panel_page.dart';
 import 'package:flutter_svg/svg.dart';
-import 'package:flutter_iot_ben/pages/control_panel/control_panel_page.dart';
 
 class Devices extends StatelessWidget {
   final String name;
