@@ -15,10 +15,10 @@ class DeviceModel {
 
   Map<String, dynamic> toJson() {
     final Map<String, dynamic> data = new Map<String, dynamic>();
-    data['name'] = this.name;
-    data['color'] = this.color;
-    data['isActive'] = this.isActive;
-    data['icon'] = this.icon;
+    data['name'] = name;
+    data['color'] = color;
+    data['isActive'] = isActive;
+    data['icon'] = icon;
     return data;
   }
 }
